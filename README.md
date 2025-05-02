@@ -20,7 +20,7 @@ perturbation-relevant gene signatures.
 if (!require("devtools", quietly = TRUE))
   install.packages("devtools")
 
-devtools::install_github("Sanofi-Public/PMCB-Genix", 
+devtools::install_github("nourin-nn/genix", 
                          build_vignettes=FALSE)
 ```
 
@@ -31,7 +31,7 @@ if (!require("BiocManager", quietly = TRUE))
   install.packages("BiocManager")
 BiocManager::install("BiocStyle")
 
-devtools::install_github("Sanofi-Public/PMCB-Genix", 
+devtools::install_github("nourin-nn/genix", 
                          build_vignettes=TRUE)
 ```
 
@@ -64,5 +64,5 @@ Perturbation-Relevant Gene Signatures", JOURNAL, 2023, DOI.
   }
 ```
 
-[vignette]: https://github.com/Sanofi-Public/PMCB-Genix/blob/master/vignettes/Genix-Vignette.Rmd
+[vignette]: https://github.com/nourin-nn/genix/blob/master/vignettes/Genix-Vignette.Rmd
 [bioc]: https://bioconductor.org/packages/devel/bioc/html/genix.html
