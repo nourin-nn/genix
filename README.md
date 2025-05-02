@@ -43,7 +43,7 @@ Once installed the best place to get started is the [vignette][vignette].
 
 ## Contact
 
-For help and questions please contact the [genix's maintenance team](mailto:nima.nouri@sanofi.com).
+For help and questions please contact the [genix's maintenance team](mailto:ni.nouri@gmail.com).
 
 
 ## Citing Genix
